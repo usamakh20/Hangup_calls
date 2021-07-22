@@ -1,0 +1,1 @@
+1. Is it hangup only when the customer is talking and the call disconnects. (Mehran, Usama)
